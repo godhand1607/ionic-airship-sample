@@ -1,0 +1,7 @@
+{
+  "name": "ionic-airship-sample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
